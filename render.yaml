@@ -1,0 +1,5 @@
+services:
+    - type: web
+    name: fb-fetch-api
+    env: docker
+    plan: free
